@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+dist/
+downloads/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# pyenv
+.python-version
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+vanv.bak/
